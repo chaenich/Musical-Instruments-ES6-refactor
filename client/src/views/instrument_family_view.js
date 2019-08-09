@@ -1,4 +1,5 @@
 const PubSub = require('../helpers/pub_sub.js');
+// import { PubSub } from '../helpers/pub_sub.js';
 
 const InstrumentFamilyView = function (container) {
   this.container = container;
@@ -45,4 +46,5 @@ InstrumentFamilyView.prototype.createInstrumentList = function (instruments) {
   return list;
 };
 
-module.exports = InstrumentFamilyView;
+// module.exports = InstrumentFamilyView;
+export { InstrumentFamilyView };
