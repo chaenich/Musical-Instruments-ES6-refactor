@@ -27,4 +27,3 @@ const instrumentFamilies = [
 ];
 
 export { instrumentFamilies };
-// module.exports = instrumentFamilies;

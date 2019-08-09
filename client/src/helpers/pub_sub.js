@@ -11,5 +11,4 @@ const PubSub = {
   }
 };
 
-// module.exports = PubSub;
 export { PubSub };
