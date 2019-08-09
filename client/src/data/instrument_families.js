@@ -26,5 +26,5 @@ const instrumentFamilies = [
   }
 ];
 
-export { instrumentFamilies as instrumentFamilies };
+export { instrumentFamilies };
 // module.exports = instrumentFamilies;
